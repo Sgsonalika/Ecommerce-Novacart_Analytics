@@ -91,7 +91,7 @@ Customer & Regional Insights
 Visualizations & Dashboards
         ↓
 Executive Recommendations
-
+```
 
 
 ## 📁 Project Structure
@@ -148,7 +148,8 @@ Handled missing shipping values
 Validated product category mappings
 Corrected inconsistent regional labels
 Created derived business metrics
-Feature Engineering
+
+## Feature Engineering
 
 Additional analytical columns were created:
 
@@ -306,51 +307,43 @@ ROI projections
 ## ⚙️ Installation & Setup
 
 1️⃣ Clone the Repository
-``` bash
+```bash
 git clone https://github.com/your-username/Ecommerce_Analytics_Project.git
 
 cd Ecommerce_Analytics_Project
 ```
 
 2️⃣ Install Dependencies
-``` bash
+```bash
 pip install -r requirements.txt
 ```
 
 3️⃣ Generate Synthetic Dataset
-``` bash
+```bash
 python scripts/generate_data.py
 ```
 
 4️⃣ Run Full Analytics Pipeline
-``` bash
+```bash
 python scripts/run_analysis.py
 ```
 
 5️⃣ Open Jupyter Notebook
-``` bash
+```bash
 jupyter notebook notebooks/ecommerce_analytics.ipynb
 ```
 
 
-##🔮 Future Improvements
+## 🔮 Future Improvements
 
  Customer churn prediction model
-
  RFM customer segmentation
-
  ARIMA / Prophet demand forecasting
-
  Interactive Plotly dashboard
-
  Streamlit deployment
-
  Recommendation engine
-
  A/B testing framework
-
  SQL warehouse integration
-
  Real-time KPI monitoring
 
 
