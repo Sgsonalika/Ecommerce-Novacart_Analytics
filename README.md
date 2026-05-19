@@ -96,6 +96,8 @@ Executive Recommendations
 
 ## 📁 Project Structure
 
+```text
+
 Ecommerce_Analytics_Project/
 │
 ├── data/
@@ -136,6 +138,7 @@ Ecommerce_Analytics_Project/
 │
 ├── README.md
 └── requirements.txt
+```
 
 ## 🧹 Data Preparation & Cleaning
 
@@ -366,7 +369,7 @@ jupyter notebook notebooks/ecommerce_analytics.ipynb
  Recommendation engine
 
  A/B testing framework
- 
+
  SQL warehouse integration
 
  Real-time KPI monitoring
