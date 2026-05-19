@@ -142,11 +142,17 @@ Ecommerce_Analytics_Project/
 The raw synthetic dataset was cleaned and transformed before analysis.
 
 Data Cleaning Steps
+
 Removed duplicate order records
+
 Standardised date formats
+
 Handled missing shipping values
+
 Validated product category mappings
+
 Corrected inconsistent regional labels
+
 Created derived business metrics
 
 ## Feature Engineering
@@ -154,10 +160,15 @@ Created derived business metrics
 Additional analytical columns were created:
 
 Profit Margin %
+
 Customer Lifetime Value (LTV)
+
 Return Flag
+
 Order Quarter
+
 Discount Bucket
+
 Shipping Delay Category
 
 ## 📊 KPI Summary
@@ -297,11 +308,17 @@ A complete 14-slide executive PowerPoint deck was created for stakeholder presen
 Includes:
 
 KPI overview
+
 Business problem analysis
+
 Key visual insights
+
 Profitability analysis
+
 Customer intelligence
+
 Strategic recommendations
+
 ROI projections
 
 ## ⚙️ Installation & Setup
@@ -337,13 +354,21 @@ jupyter notebook notebooks/ecommerce_analytics.ipynb
 ## 🔮 Future Improvements
 
  Customer churn prediction model
+
  RFM customer segmentation
+
  ARIMA / Prophet demand forecasting
+
  Interactive Plotly dashboard
+
  Streamlit deployment
+
  Recommendation engine
+
  A/B testing framework
+ 
  SQL warehouse integration
+
  Real-time KPI monitoring
 
 
